@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud-config-center-3344" />
+        <module name="springcloud-gateway-gateway9527" />
+        <module name="springcloud-consumerconsul-order80" />
+        <module name="springcloud-consumer-feign-order80" />
+        <module name="springcloudalibaba-config-nacos-client3377" />
+        <module name="springcloud-providerconsul-payment8006" />
+        <module name="seata-storage-service2002" />
+        <module name="springcloudalibaba-provider-payment9004" />
+        <module name="springcloud-api-commons" />
+        <module name="springcloudalibaba-provider-payment9002" />
+        <module name="springcloudalibaba-provider-payment9001" />
+        <module name="springcloudalibaba-sentinel-service8401" />
+        <module name="springcloud-stream-rabbitmq-provider8801" />
+        <module name="springcloud-provider-payment8002" />
+        <module name="springcloud-consumer-feign-hystrix-order80" />
+        <module name="springcloud-config-client-3366" />
+        <module name="springcloud-provider-hystrix-payment8001" />
+        <module name="springcloud-consumer-hystrix-dashboard9001" />
+        <module name="springcloud-consumer-order80" />
+        <module name="springcloudalibaba-consumer-nacos-order84" />
+        <module name="springcloudalibaba-consumer-nacos-order83" />
+        <module name="springcloud-provider-payment8004" />
+        <module name="seata-order-service2001" />
+        <module name="springcloud-provider-payment8001" />
+        <module name="springcloud-consumerzk-order80" />
+        <module name="springcloud-stream-rabbitmq-consumer8803" />
+        <module name="springcloud-stream-rabbitmq-consumer8802" />
+        <module name="springcloud-config-client-3355" />
+        <module name="springcloud-eureka-server7002" />
+        <module name="springcloud-eureka-server7001" />
+        <module name="seata-account-service2003" />
+        <module name="springcloudalibaba-provider-payment9003" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud-stream-rabbitmq-consumer8802 (1)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
